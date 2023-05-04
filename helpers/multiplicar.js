@@ -29,7 +29,7 @@ const crearArchivoTabla = async (base, listar, hasta) => {
     }
     catch(error){
         throw error;
-    }
+    }      
 }
 
 module.exports = {
