@@ -2,7 +2,7 @@
 
 ### Notas:
 
-Este es mi primer programa en NodeJS
+Este es mi primer programa de consola en NodeJS
 
 ```
 Opciones:
